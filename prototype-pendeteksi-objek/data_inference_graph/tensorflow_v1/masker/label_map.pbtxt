@@ -1,0 +1,9 @@
+item {
+    id: 1
+    name: 'bermasker'
+}
+
+item {
+    id: 2
+    name: 'tanpa_masker'
+}
